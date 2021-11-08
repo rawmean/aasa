@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "1592555877.com.example.app2" ],
+             "appIDs": [ "1592555877.maadotaa.com.ascend" ],
              "components": [
                {
                   "/": "/share/*",
