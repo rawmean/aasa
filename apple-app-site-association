@@ -5,6 +5,10 @@
              "appIDs": [ "876U4BLX5B.maadotaa.com.ascend" ],
              "components": [
                {
+                  "?": "share=?*",
+                  "comment": ""
+               }
+               {
                   "/": "/share/*",
                   "comment": "Matches any URL whose path starts with /share/"
                }
