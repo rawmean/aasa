@@ -2,8 +2,12 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "1592555877.maadotaa.com.ascend" ],
+             "appIDs": [ "876U4BLX5B.maadotaa.com.ascend" ],
              "components": [
+               {
+                  "?": "share=?*",
+                  "comment": ""
+               }
                {
                   "/": "/share/*",
                   "comment": "Matches any URL whose path starts with /share/"
